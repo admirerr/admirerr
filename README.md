@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
--  💻 I am an undergraduate learning Computer Science and Engineering a NIT Allahabad.
+-  💻 I am an undergraduate learning Computer Science and Engineering NIT Allahabad.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
