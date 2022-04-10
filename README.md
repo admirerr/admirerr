@@ -10,7 +10,7 @@ Hey, I am pursuing Computer Science and Engineering from 🚀[NIT Allahabad](htt
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/shubham-anurag-kashyap-942a19205?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2htIRUYwQx%2B3DHVms9%2BLLQ%3D%3D/"><img src="https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png" width="50px"></a>
+<a href = "https://www.linkedin.com/in/shubham-anurag-kashyap-942a19205?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2htIRUYwQx%2B3DHVms9%2BLLQ%3D%3D/"><img src="https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png" height="40px"></a>
 <a href = "shubhamkashyap0608@gmail.com"><img src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png" height="40px"></a>
 
 </p>
