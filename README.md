@@ -1,9 +1,10 @@
-### Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is [Shubham Kashyap](https://www.linkedin.com/in/shubham-anurag-kashyap-942a19205/)
+### Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is [Shubham Kashyap](https://www.linkedin.com/in/admirerr/)
 ![](https://komarev.com/ghpvc/?username=admirerr&color=green)
 
 Hey, I am pursuing B.Tech. in Computer Science and Engineering from 🚀[NIT Allahabad](http://www.mnnit.ac.in), Prayagraj, Uttar Pradesh. I'm a Web🕸 developer working with [Node.js](https://nodejs.org/en/), [Express.js](https://expressjs.com), [React](https://www.reactjs.org/), [FastApi](https://fastapi.tiangolo.com/), RestAPIs and Database connectivities along with HTML, CSS, Bootstrap, jQuery for frontend portion. I'm currently learning Tailwind🌟 CSS after completing 3D-Modelling🏰 in CSS.
 
-<a href="https://imgur.com/ilzOXDw"><img align="right" src="https://i.imgur.com/ilzOXDw.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/ilzOXDw"><img align="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" title="source: imgur.com" style=" height: 220px; width: 250px" /></a>
+
 ****
 - 💬 Ask me anything!
      Always ready to help!🤩
