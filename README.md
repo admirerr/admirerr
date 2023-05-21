@@ -24,7 +24,7 @@ shubhamkashyap0608@gmail.com, will try my best to reply within 24 hrs🏁!
 
 <a href = "https://www.linkedin.com/in/admirerr/"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg" height="40px"></a>
 <a href = "mailto: shubhamkashyap0608@gmail.com"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg" height="35px"></a>
-
+<a href="https://twitter.com/admirerr_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg" height="35px"></a>
 </p>
 
 ***
