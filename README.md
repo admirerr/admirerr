@@ -28,8 +28,11 @@ shubhamkashyap0608@gmail.com, will try my best to reply within 24 hrs🏁!
 </p>
 
 ***
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=admirerr&show_icons=true&hide_border=true&icon_color=5CFF33&theme=nord">
+<div style="display: flex; justify-content: space-evenly; align-items: center;">
+  <img src="https://stats.quira.sh/admirerr/github?theme=dark" alt="GitHub Stats" style="width: 400px; height: auto;">
+  <img align="right" src="https://stats.quira.sh/admirerr/languages-over-time?theme=dark" alt="Languages Over Time" style="width: 430px; height: auto;">
+</div>
+
 
 
 
