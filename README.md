@@ -5,7 +5,10 @@
 
 🛠 **Tech Expertise:**
 
-<a href="https://imgur.com/ilzOXDw"><img align="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" title="source: imgur.com" style=" height: 220px; width: 250px" /></a>
+<a href="https://giphy.com/embed/22rDmweQGOtYO4p6oG">
+  <img align="right" src="https://media.giphy.com/media/22rDmweQGOtYO4p6oG/giphy.gif" title="source: giphy.com" style="height: 240px; width: 270px;" />
+</a>
+
 - **Programming Languages**: Skilled in C++, Python, Java, TypeScript. 🖥️
 - **Frontend Technologies**: Proficient in HTML, CSS, Bootstrap, ReactJS; currently exploring Tailwind CSS. 🎨
 - **Backend Technologies**: Experienced with NodeJS, ExpressJS, crafting RESTful services. ⚙️
