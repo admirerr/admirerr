@@ -4,7 +4,7 @@
 🎓 Graduated with a B.Tech. in Computer Science and Engineering from [NIT Allahabad](http://www.mnnit.ac.in), I am driven to develop innovative software solutions that address real-world challenges. 🌍
 
 <a href="https://giphy.com/embed/22rDmweQGOtYO4p6oG">
-  <img align="right" src="https://media.giphy.com/media/22rDmweQGOtYO4p6oG/giphy.gif" title="source: giphy.com" style="height: 240px; width: 265px;" />
+  <img align="right" src="https://github.com/admirerr/admirerr/blob/main/assets/giphy.gif" title="source: giphy.com" style="height: 240px; width: 265px;" />
 </a>
 
 🛠 **Tech Expertise:**
