@@ -6,7 +6,7 @@
 🛠 **Tech Expertise:**
 
 <a href="https://giphy.com/embed/22rDmweQGOtYO4p6oG">
-  <img align="right" src="https://media.giphy.com/media/22rDmweQGOtYO4p6oG/giphy.gif" title="source: giphy.com" style="height: 240px; width: 270px;" />
+  <img align="right" src="https://media.giphy.com/media/22rDmweQGOtYO4p6oG/giphy.gif" title="source: giphy.com" style="height: 240px; width: 265px;" />
 </a>
 
 - **Programming Languages**: Skilled in C++, Python, Java, TypeScript. 🖥️
