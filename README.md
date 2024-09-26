@@ -1,7 +1,7 @@
 ### Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [Shubham Kashyap](https://www.linkedin.com/in/admirerr/)
 ![](https://komarev.com/ghpvc/?username=admirerr&color=green)
 
-🎓 Currently studying B.Tech. in Computer Science and Engineering at [NIT Allahabad](http://www.mnnit.ac.in), I am driven to develop innovative software solutions that address real-world challenges. 🌍
+🎓 Graduated with a B.Tech. in Computer Science and Engineering from [NIT Allahabad](http://www.mnnit.ac.in), I am driven to develop innovative software solutions that address real-world challenges. 🌍
 
 🛠 **Tech Expertise:**
 
