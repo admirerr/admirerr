@@ -3,9 +3,9 @@
 
 🎓 Graduated with a B.Tech. in Computer Science and Engineering from [NIT Allahabad](http://www.mnnit.ac.in), I am driven to develop innovative software solutions that address real-world challenges. 🌍
 
-<a href="https://giphy.com/embed/22rDmweQGOtYO4p6oG">
-  <img align="right" src="https://github.com/admirerr/admirerr/blob/main/assets/giphy.gif" title="source: giphy.com" style="height: 240px; width: 265px;" />
-</a>
+<a href="https://giphy.com/embed/22rDmweQGOtYO4p6oG" style="flex-shrink: 0;">
+    <img align="right" src="https://github.com/admirerr/admirerr/blob/main/assets/giphy.gif" title="source: giphy.com" style="width: 23vw; height: 20vw;" />
+  </a>
 
 🛠 **Tech Expertise:**
 
@@ -14,7 +14,7 @@
 - **Backend Technologies**: Experienced with NodeJS, ExpressJS, crafting RESTful services. ⚙️
 - **Databases**: Practical knowledge of MongoDB, MySQL, PostgreSQL. 📚
 - **DevOps & Cloud**: Working knowledge of Docker, AWS, and basic CI/CD pipelines. ☁️
-- **Development Tools**: Adept with Git for version control and Selenium for automation testing. 🔧
+- **Development Tools**: Adept with Git for version control and Selenium for development and automation. 🔧
 
 🌟 Actively expanding my skills, particularly in cloud computing and advanced JavaScript frameworks to boost application performance and user experience. 📈
 
