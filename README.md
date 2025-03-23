@@ -13,6 +13,11 @@
 - **Node.js, Express.js, TypeScript**
 - **RESTful & Microservices Architectures**
 
+<a href="https://giphy.com/embed/22rDmweQGOtYO4p6oG" style="flex-shrink: 0;">
+    <img align="right" src="https://github.com/admirerr/admirerr/blob/main/assets/giphy.gif" title="source: giphy.com" style="width: 28vw; height: 25vw;" />
+  </a>
+
+
 ### 🔹 Frontend & UX
 - **ReactJS, HTML, CSS, Bootstrap**
 
