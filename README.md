@@ -14,7 +14,7 @@
 - **RESTful & Microservices Architectures**
 
 <a href="https://giphy.com/embed/22rDmweQGOtYO4p6oG" style="flex-shrink: 0;">
-    <img align="right" src="https://github.com/admirerr/admirerr/blob/main/assets/giphy.gif" title="source: giphy.com" style="width: 28vw; height: 25vw;" />
+    <img align="right" src="https://github.com/admirerr/admirerr/blob/main/assets/giphy.gif" title="source: giphy.com" style="width: 26vw; height: 23vw;" />
   </a>
 
 
