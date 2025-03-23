@@ -39,6 +39,11 @@
 
 ---
 
+## 🎖️ Badges
+[![@admirerr's Holopin board](https://holopin.me/admirerr)](https://holopin.io/@admirerr)
+
+---
+
 ## 💼 What I Bring to the Table
 
 - **Scalable API Development:** Built and deployed **60+ APIs**, powering high-performance financial applications.
