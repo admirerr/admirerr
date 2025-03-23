@@ -46,14 +46,14 @@
 
 ## 💼 What I Bring to the Table
 
-- **Scalable API Development:** Built and deployed **60+ APIs**, powering high-performance financial applications.
-- **AI & ML Integration:** Integrated **AI-driven fraud detection** and **Aadhaar-based document verification**.
-- **Microservices Architecture:** Designed and optimized **scalable microservices**, improving efficiency and resource utilization.
-- **Workflow Automation:** Developed **internal tools** to streamline processes, increasing accuracy and reducing turnaround time.
-- **Data Engineering & ETL:** Engineered **ETL pipelines** using **AWS Glue**, automating data extraction, transformation, and loading.
-- **Secure Transactions:** Implemented **cryptographic techniques** to enhance **data privacy** and **secure financial transactions**.
-- **Big Data Optimization:** Optimized **large-scale data queries** with **Amazon Athena**, improving processing speed and insights.
-- **CI/CD & DevOps:** Configured **CI/CD pipelines** for seamless integration, automated testing, and **zero-downtime deployments**.
+- **[Scalable API Development:]()** Built and deployed **60+ APIs**, powering high-performance financial applications.
+- **[AI & ML Integration:]()** Integrated **AI-driven fraud detection** and **Aadhaar-based document verification**.
+- **[Microservices Architecture:]()** Designed and optimized **scalable microservices**, improving efficiency and resource utilization.
+- **[Workflow Automation:]()** Developed **internal tools** to streamline processes, increasing accuracy and reducing turnaround time.
+- **[Data Engineering & ETL:]()** Engineered **ETL pipelines** using **AWS Glue**, automating data extraction, transformation, and loading.
+- **[Secure Transactions:]()** Implemented **cryptographic techniques** to enhance **data privacy** and **secure financial transactions**.
+- **[Big Data Optimization:]()** Optimized **large-scale data queries** with **Amazon Athena**, improving processing speed and insights.
+- **[CI/CD & DevOps:]()** Configured **CI/CD pipelines** for seamless integration, automated testing, and **zero-downtime deployments**.
 
 ---
 
