@@ -1,6 +1,10 @@
 <!-- Header with Cool GIF -->
 
-<h1 align="center" style="font-size: 48px; color: #87ceeb; text-shadow: 2px 2px 5px #000;">Hi 👋, I'm Shubham Kashyap</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20👋%20,%20I'm%20Shubham%20Kashyap&reversal=false&fontAlignY=43&animation=fadeIn&fontColor=ffffff&fontSize=40"/>
+</p>
+
+<!--  <h1 align="center" style="font-size: 48px; color: #87ceeb; text-shadow: 2px 2px 5px #000;">Hi 👋, I'm Shubham Kashyap</h1>   -->
 <h3 align="center" style="font-family: 'Arial', sans-serif; background-color: #1c1c1c; padding: 15px; border-radius: 10px; color: #87ceeb;">A passionate developer specializing in GenAI-based automation, Agentic AI workflows, Microservices architecture, and RAG pipeline development.</h3>
 
 <p align="center">
